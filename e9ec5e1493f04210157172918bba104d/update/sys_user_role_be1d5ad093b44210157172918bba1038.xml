@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_1324089_vehicle.admin</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>x_1324089_vehicle.admin</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-03 17:19:39</sys_created_on>
+        <sys_id>be1d5ad093b44210157172918bba1038</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1324089_vehicle.admin</sys_name>
+        <sys_package display_value="Vehicle Application" source="x_1324089_vehicle">e9ec5e1493f04210157172918bba104d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vehicle Application">e9ec5e1493f04210157172918bba104d</sys_scope>
+        <sys_update_name>sys_user_role_be1d5ad093b44210157172918bba1038</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-03 17:19:39</sys_updated_on>
+    </sys_user_role>
+</record_update>

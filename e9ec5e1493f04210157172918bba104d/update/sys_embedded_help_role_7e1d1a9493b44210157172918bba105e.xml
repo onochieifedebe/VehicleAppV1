@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_1324089_vehicle.user" name="x_1324089_vehicle.user">be1d1a9493b44210157172918bba105d</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-03 17:19:39</sys_created_on>
+        <sys_id>7e1d1a9493b44210157172918bba105e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>be1d1a9493b44210157172918bba105d</sys_name>
+        <sys_package display_value="Vehicle Application" source="x_1324089_vehicle">e9ec5e1493f04210157172918bba104d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vehicle Application">e9ec5e1493f04210157172918bba104d</sys_scope>
+        <sys_update_name>sys_embedded_help_role_7e1d1a9493b44210157172918bba105e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-03 17:19:39</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
